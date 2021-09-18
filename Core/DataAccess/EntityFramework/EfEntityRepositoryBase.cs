@@ -5,7 +5,6 @@ using System.Linq.Expressions;
 using System.Text;
 using Core.Entities;
 using Microsoft.EntityFrameworkCore;
-
 namespace Core.DataAccess.EntityFramework
 {
     public class EfEntityRepositoryBase<TEntity, TContext> : IEntityRepository<TEntity>
