@@ -31,4 +31,14 @@
 * Atölye çalışmaları (Workshop)
 
 <b> Yazılım Geliştirici Kampı 11. Gün Sonu - 21.09.2021 </b>
+
+<h1>Ders Programı (GÜNCELLEME)</h1>
+
+* Web Frontend Kodlamaya Giriş
+* 
+* HTML, CSS, Bootstrap
+* 
+* Atölye çalışmaları (Workshop)
+
+<b> Yazılım Geliştirici Kampı 12. Gün Sonu - 24.09.2021 </b>
   
