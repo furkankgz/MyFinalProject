@@ -23,4 +23,12 @@
 * Atölye çalışmaları (Workshop)
 
 <b> Yazılım Geliştirici Kampı 10. Gün Sonu - 18.09.2021 </b>
+
+<h1>Ders Programı (GÜNCELLEME)</h1>
+
+* İleri seviye Web API kodlama
+
+* Atölye çalışmaları (Workshop)
+
+<b> Yazılım Geliştirici Kampı 11. Gün Sonu - 21.09.2021 </b>
   
