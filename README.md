@@ -42,6 +42,7 @@
 
 <b> Yazılım Geliştirici Kampı 12. Gün Sonu - 24.09.2021 </b>
 
+
 <h1>Ders Programı (GÜNCELLEME)</h1>
 
 * Angular
