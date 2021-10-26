@@ -59,3 +59,11 @@
 * Atölye çalışmaları (Workshop)
 
 <b> Yazılım Geliştirici Kampı 14. Gün Sonu - 11.10.2021 </b>
+
+<h1>Ders Programı (GÜNCELLEME)</h1>
+
+* Angular
+
+* Atölye çalışmaları (Workshop)
+
+<b> Yazılım Geliştirici Kampı 15. Gün Sonu - 13.10.2021 </b>
